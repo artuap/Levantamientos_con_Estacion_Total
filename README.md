@@ -1,4 +1,4 @@
-![Sokkia Proficiency](https://img.shields.io/badge/Sokkia_Equipment-Expert_Level_★★★★★-00457C?style=for-the-badge&logo=target&logoColor=white&labelColor=black)   ![Topcon Latam](https://img.shields.io/badge/TOPCON-Latin_America_%26_Caribbean_Div.-FFD400?style=for-the-badge&logo=topcon&logoColor=005696&labelColor=black)  ![Trimble Latin America](https://img.shields.io/badge/Trimble-Nikon-FFD400?style=for-the-badge&logo=trimble&logoColor=FFD400&labelColor=black)  ![Spectra Geospatial](https://img.shields.io/badge/Spectra-Geospatial-0069B4?style=for-the-badge&logo=target&logoColor=blue&labelColor=333333)
+&nbsp;&nbsp;&nbsp;![Sokkia Proficiency](https://img.shields.io/badge/Expert-Sokkia_Equipment-00457C?style=for-the-badge&logo=target&logoColor=white&labelColor=black) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Topcon Latam](https://img.shields.io/badge/TOPCON-Latin_America_%26_Caribbean_Div.-FFD400?style=for-the-badge&logo=topcon&logoColor=005696&labelColor=black)  
 
 ## Levantamientos con Estacion Total
 ### Dirigido a operarios NO topografos de formación, carreras afines como Ingenieria Civíl, Arquitectura etc.
