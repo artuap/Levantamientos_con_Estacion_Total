@@ -5,7 +5,7 @@
 ####  Procedimientos directos en campo; 
 
   Guia de Practica
-     Ver el [manejo de errores en la línea 45](https://github.com/usuario/repo/blob/master/main.c#L45)
+     Ver el [manejo de errores en la línea 45](https://github.com/usuario/repo/blob/main/main.c#L45)
 
   Mitigacion de la propagacion de errores <Evitar errores graves>;
 
