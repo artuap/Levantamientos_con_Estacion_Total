@@ -1,6 +1,6 @@
 &nbsp;![Sokkia Proficiency](https://img.shields.io/badge/Expert-Sokkia_Equipment-00457C?style=for-the-badge&logo=target&logoColor=white&labelColor=black) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;             ![Topcon Latam](https://img.shields.io/badge/TOPCON-Latin_America_%26_Caribbean_Div.-FFD400?style=for-the-badge&logo=topcon&logoColor=005696&labelColor=black)  
 
-### Mediciones-poscisionamientos con Estacion Total;
+### Mediciones-posicionamientos con Estacion Total;
 #### Dirigido a carreras afines <Ingenieria Civíl, Arquitectura etc>;
 ####  Procedimientos directos en campo; 
 
