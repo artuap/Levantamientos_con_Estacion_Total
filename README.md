@@ -16,3 +16,4 @@
   Minimos cuadrados (Last Square Error) Metodo Estocastico;
 
   Elipses de cuantificacion de error;              
+  Chi Test
